@@ -35,7 +35,7 @@
     "clsx": "^1.2.1",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "framer-motion":"10.2.4",
+    "framer-motion":"10.3.1",
     "@headlessui/react": "^1.7.13"
   }
 }
